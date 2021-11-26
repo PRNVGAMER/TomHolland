@@ -1,4 +1,4 @@
-# TomHolland
+# Jonathan TG
 Very Sempil Bot Auto Filter bot
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TomHolland!;created+by+PeterParker!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
@@ -47,7 +47,7 @@ Very Sempil Bot Auto Filter bot
 
 
 
-###Tom Holland
+###Jonathan TG
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LolanBot18/TomHolland)
 ### Hard Way
